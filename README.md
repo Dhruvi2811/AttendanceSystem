@@ -41,9 +41,6 @@
 
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
 
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
 
 
 ### Notes
