@@ -25,7 +25,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
+![](images/details.png)
 
 ### When it's Recognise me
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
