@@ -25,16 +25,11 @@
 ### Screenshots
 
 ### Basic UI
-![](images/details.png)
-
-### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
-
-### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
+![](images/layout.png)
+![](images/layout1.png)
 
 ### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
+![](images/details.png)
 
 
 ### How it works? See:)
@@ -48,4 +43,4 @@
 - If you think it will recognise person just like humans,than leave it ,its not possible.
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
+## Just follow me and Star my repository 
