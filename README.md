@@ -34,7 +34,7 @@
 
 ### How it works? See:)
 
-![](video/VID-20200410-WA0003.mp4)
+For that see the video folder :)
 
 
 
