@@ -34,7 +34,7 @@
 
 ### How it works? See:)
 
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
+![](video/VID-20200410-WA0003.mp4)
 
 
 
